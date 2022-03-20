@@ -17,6 +17,9 @@ namespace TSNet // Note: actual namespace depends on the project name.
             //human.canSpeak();
             StarPattern pattern = new StarPattern();
             pattern.printStar();
+
+            EvenOdd evenodd = new();
+            evenodd.Even_odd();
             
         }
     }

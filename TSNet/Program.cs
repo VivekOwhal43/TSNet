@@ -38,6 +38,12 @@ namespace TSNet // Note: actual namespace depends on the project name.
                     student.showDetails();
                     break;
 
+                case 5:
+                    //FruitAndVegetables vc = new FruitAndVegetables("","","",""); 
+                    Console.WriteLine("No data available");
+                    break;
+
+
                 default:
                     Console.WriteLine("Please enter a number between 1 to 4");
                 break;

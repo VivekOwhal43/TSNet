@@ -18,7 +18,7 @@ namespace TSNet
 
         public void showDetails()
         {
-            Console.WriteLine("Roll Number"+roll_number+" Name: "+name);
+            Console.WriteLine("Roll Number: "+roll_number+" Name: "+name);
         }
     }
 }
